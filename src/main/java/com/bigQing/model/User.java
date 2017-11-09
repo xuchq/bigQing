@@ -2,6 +2,9 @@ package com.bigQing.model;
 
 import java.util.Date;
 
+/**
+ * 用户bean
+ */
 public class User {
 
     private long id;
