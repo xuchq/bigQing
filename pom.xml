@@ -120,7 +120,7 @@
     </dependencies>
 
     <build>
-        <finalName>ChatRobot</finalName>
+        <finalName>BigQing</finalName>
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
